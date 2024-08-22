@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi there 🐌✌
+
+![1223121](https://github.com/user-attachments/assets/40364141-9223-44e9-9c68-aa859a5a5101)
+
+I’m currently working on learning a new set of skills after changing my major. I definitely feel like a fish out of water more often than not, but I'm looking forward to learning a new skillset that I an hopefully use for future employment.
 
 <!--
+
 **ALCph/ALCph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+## I’m currently working on learning a new set of skills after changing my major
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
