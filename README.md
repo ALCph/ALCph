@@ -1,8 +1,10 @@
-## Hi there 🐌✌
+## Hello there 🐯✌
 
-![1223121](https://github.com/user-attachments/assets/40364141-9223-44e9-9c68-aa859a5a5101)
+![lazy-cat-1-1](https://github.com/user-attachments/assets/c51a61f6-0ab7-4b50-ae07-c60cec72b3b6)
+I’m currently working on learning a new set of skills after changing my major. I definitely feel like a fish out of water more often than not, but I'm looking forward to learning a new skillset that I an hopefully use for future employment. I know I have a lot of work ahead of me, but sometimes you just have to buckle up and get to work.
 
-I’m currently working on learning a new set of skills after changing my major. I definitely feel like a fish out of water more often than not, but I'm looking forward to learning a new skillset that I an hopefully use for future employment.
+My interest in technology in general led me to pursue a degree in cyber defense, though perhaps this can be a stepping-stone into an adjacent field still in this field of work. 
+I hope to get along with all of you this fall semester ✌
 
 <!--
 
